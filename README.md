@@ -9,3 +9,4 @@ I also hope open-source doesn't become the next leetcode with people selling cou
 | Organization Name | Contributor Name       | Project Name                                  | Proposal Link                                                                                           |
 |-------------------|------------------------|-----------------------------------------------|---------------------------------------------------------------------------------------------------------|
 | HoneyNet       | Aditya Narayan Sinha  | Creating Playbooks for IntelOwl               | [Proposal](https://github.com/0x0elliot/GSoCProposal/blob/master/Creating-Playbooks-for-IntelOwl.pdf) |
+| Ceph           | Devansh Singh         | Make Teuthology Friendly                      | [Proposal](https://github.com/0x0elliot/GSoCProposal/blob/master/Making%20Teuthology%20Friendly.pdf)
