@@ -6,4 +6,4 @@ I also hope open-source doesn't become the next leetcode with people selling cou
 |-------------------|------------------------|-----------------------------------------------|---------------------------------------------------------------------------------------------------------|-------------------|
 | HoneyNet       | Aditya Narayan Sinha  | Creating Playbooks for IntelOwl               | [Proposal](https://github.com/0x0elliot/GSoCProposal/blob/master/Creating-Playbooks-for-IntelOwl.pdf) | 2022
 | Ceph           | Devansh Singh         | Make Teuthology Friendly                      | [Proposal](https://github.com/0x0elliot/GSoCProposal/blob/master/Making%20Teuthology%20Friendly.pdf) | 2023
-| HoneyNet | [Nilay Gupta](https://github.com/g4ze/) | Adding more ANalyzers| [Proposal](https://github.com/g4ze/GSoCProposal/blob/master/_New%20Analyzers%20for%20IntelOwl__.pdf) | 2024
+| HoneyNet | [Nilay Gupta](https://github.com/g4ze/) | Adding more Analyzers| [Proposal](https://github.com/g4ze/GSoCProposal/blob/master/_New%20Analyzers%20for%20IntelOwl__.pdf) | 2024
