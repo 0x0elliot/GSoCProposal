@@ -6,8 +6,8 @@ My friends have told me often, that they feel very lost, even after contributing
 
 I also hope open-source doesn't become the next leetcode with people selling courses and stays as open and approachable as it is.
 
-| Organization Name | Contributor Name       | Project Name                                  | Proposal Link                                                                                           |
+| Organization Name | Contributor Name       | Project Name                                  | Proposal Link | Year |
 |-------------------|------------------------|-----------------------------------------------|---------------------------------------------------------------------------------------------------------|
 | HoneyNet       | Aditya Narayan Sinha  | Creating Playbooks for IntelOwl               | [Proposal](https://github.com/0x0elliot/GSoCProposal/blob/master/Creating-Playbooks-for-IntelOwl.pdf) |
-| Ceph           | Devansh Singh         | Make Teuthology Friendly                      | [Proposal](https://github.com/0x0elliot/GSoCProposal/blob/master/Making%20Teuthology%20Friendly.pdf)
-| HoneyNet           | Nilay Gupta       | Adding more ANalyzers                       | [Proposal]()
+| Ceph           | Devansh Singh         | Make Teuthology Friendly                      | [Proposal](https://github.com/0x0elliot/GSoCProposal/blob/master/Making%20Teuthology%20Friendly.pdf)|
+| HoneyNet           | Nilay Gupta       | Adding more ANalyzers                       | [Proposal](https://github.com/g4ze/GSoCProposal/blob/master/_New%20Analyzers%20for%20IntelOwl__.pdf)| 2024
